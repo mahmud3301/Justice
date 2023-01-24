@@ -1,0 +1,23 @@
+.bg-color {
+    background-color: #B68C5A;
+}
+
+.banner-img {
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-bg {
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+.slider {
+    width: 90%;
+    height: 450px;
+    border-radius: 20px;
+}
+
+.footer {
+    padding: 80px 100px;
+}
